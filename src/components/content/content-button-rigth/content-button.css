@@ -1,0 +1,44 @@
+.seal-container {
+    background: #f7f7f7;
+    border-radius: 10px;
+}
+.seal-container .img-icon-logo {
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    margin-right: 10px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    vertical-align: middle;
+    margin: auto;
+    margin-right: 10px;
+}
+.seal-container .seal-content {
+    font-size: 12px;
+    line-height: 1rem;
+}
+.seal-container .seal-title {
+    font-weight: 700;
+    line-height: 1.1;
+    font-family: oswald, sans-serif;
+}
+.btn-lg{
+    border-radius: 9px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: .51px;
+    margin-top: 15px;
+    line-height: 22px;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    position: relative;
+    outline: none !important;
+    border: 2px solid #fff;
+    background-color: #1e8504;
+}
+.fa-square-check{
+   color: #1e8504;
+}

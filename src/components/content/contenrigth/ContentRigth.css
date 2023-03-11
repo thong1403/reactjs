@@ -1,0 +1,36 @@
+.shipaddress{
+display: none;
+
+}
+.date{
+    width: 100%;
+
+}
+.step2 h5{
+    margin-top: 11%;
+}
+.js_choose_billing{
+    display: none;
+}
+.add-box {
+    border: 2px dashed #FEC41E;
+    background: #fdf0cc;
+    padding: 15px;
+}
+p span.ylw {
+    color: #FC0808;
+    font-weight: bold;
+}
+.text-success {
+    color: #10852a !important;
+}
+.cb-check-status{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.add-box{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

@@ -1,0 +1,26 @@
+.buttom-content h1{
+    text-align: center;
+}
+.buttom-content{
+    margin-top: 3%;
+    padding: 2%;
+    background-color: white;
+}
+.center-content{
+    padding: 2%;
+    background-color: #D6D8D9;
+    border-radius: 5px;
+}
+.vdo-img{
+    display: none;
+}
+.container-video{
+    text-align: center;
+
+}
+.img-content-buttom{
+    width: 50px;
+ margin-top: 5px;
+ margin-right: 5px;
+    float: left;
+}
